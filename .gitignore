@@ -1,0 +1,40 @@
+# Python
+.venv
+.venv_vb
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.env.local
+
+# Node
+node_modules/
+.next/
+package-lock.json
+
+# KMS
+KMS/
+
+# Weaviate data files
+backend/weaviate_client/*.json
+backend/weaviate_client/*.ipynb
+backend/weaviate_client/__pycache__/
+
+# Data and backups
+data/*
+backups/*
+onboarding-backup-*/
+postgres_data/
+
+# Lead data
+leads_data/
+docs/leads_data/
+
+# Temporary files
+call_transcription_and_summary.md
+*.ipynb
+
+# Parent directory files (outside repo)
+../.venv_vb
+.cursor/

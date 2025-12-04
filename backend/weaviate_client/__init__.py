@@ -1,0 +1,2 @@
+# Weaviate client module
+
