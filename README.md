@@ -1,4 +1,4 @@
-# E-Commerce Voice Assistant
+#HelVox — AI Voice Assistant for Customer Support
 
 An intelligent, multilingual voice assistant for customer support and order management in e-commerce platforms through natural voice conversations. The agent uses Google's Gemini Realtime API with LiveKit for real-time voice-to-voice interactions and Weaviate for knowledge base retrieval (RAG).
 
